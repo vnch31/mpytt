@@ -91,7 +91,7 @@ def print_banner():
     print(f"{bcolors.OKBLUE}|_| |_| |_|_|    \__, |\__|\__|{bcolors.ENDC}")
     print(f"{bcolors.OKBLUE}                 |___/         {bcolors.ENDC}")
     print("-------------------------------")
-    print(f"|  Made by {bcolors.BOLD}@vnch31 & @jbannay{bcolors.ENDC} |")
+    print(f"|  Made by {bcolors.BOLD}@vnch31 & @justine-b{bcolors.ENDC} |")
     print("-------------------------------")
 
 
