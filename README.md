@@ -26,7 +26,7 @@ Step to follow :
 
 1. `git clone https://github.com/vnch31/mpytt.git`
 2. `cd mpytt`
-3. `pip3 -r install requirements.txt`
+3. `pip3 install -r requirements.txt`
 
 mpytt works with python 3.x on unix based platforms
 
